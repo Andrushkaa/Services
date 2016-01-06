@@ -1,0 +1,6 @@
+c:\users\bigman\documents\visual studio 2015\Projects\TopShelfTestApp\TopShelfTestApp\bin\Debug\TopShelfTestApp.exe.config
+c:\users\bigman\documents\visual studio 2015\Projects\TopShelfTestApp\TopShelfTestApp\bin\Debug\TopShelfTestApp.exe
+c:\users\bigman\documents\visual studio 2015\Projects\TopShelfTestApp\TopShelfTestApp\bin\Debug\TopShelfTestApp.pdb
+c:\users\bigman\documents\visual studio 2015\Projects\TopShelfTestApp\TopShelfTestApp\obj\Debug\TopShelfTestApp.csprojResolveAssemblyReference.cache
+c:\users\bigman\documents\visual studio 2015\Projects\TopShelfTestApp\TopShelfTestApp\obj\Debug\TopShelfTestApp.exe
+c:\users\bigman\documents\visual studio 2015\Projects\TopShelfTestApp\TopShelfTestApp\obj\Debug\TopShelfTestApp.pdb
